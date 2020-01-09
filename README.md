@@ -20,4 +20,4 @@ This repo is forked from [bulik/ldsc](https://github.com/bulik/ldsc) to better s
 2. `mtag_munge.py`: an improved version of `munge_sumstats.py` created by [mtag](https://github.com/omeed-maghzian/mtag) developers. We have made a few small convenient adjustments to `mtag_munge.py` (see git history) .
 
 **Environments**
-1. Added environment_munge.yml with `numpy` and `pandas` versions that works with `munge_sumstats.py` (and `mtag_munge.py`).
+1. Added environment_munge.yml with `numpy` and `pandas` versions that works with `munge_sumstats.py` (and `mtag_munge.py`). All of LDSC (including `munge_sumstats.py` and `mtag_munge.py`) runs only on **python 2.7**.
