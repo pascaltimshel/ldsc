@@ -1,5 +1,6 @@
-name: ldsc_munge
+name: munge_ldsc
 channels:
+  - defaults
   - bioconda
 dependencies:
   - python=2.7
